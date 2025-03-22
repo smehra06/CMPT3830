@@ -1,7 +1,7 @@
 # ML-Work-Integrated(CMPT 3830)
 Machine Learning Work Integrated Project
 ## Description
-The datset is about diabetic patients and the information about their healkth conditions.
+The datset is about diabetic patients and the information about their health conditions.
 
 ## Dataset Information
 - *Source*: The dataset was given by the instructor.
